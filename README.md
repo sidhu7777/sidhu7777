@@ -7,7 +7,7 @@ Data Scientist with a passion for turning complex data into actionable insights.
 ## Skills
 
 * Programming Languages: Python, Java, SQL 
-* Databases: MongoDB, Neo4j 
+* Databases: SQL, MongoDB, Neo4j 
 * Data Analysis & Visualization: Pandas, NumPy, Matplotlib, Seaborn, D3.js, Tableau
 * Machine Learning: Scikit-learn, TensorFlow
 * Agile Methodologies: Agile, Scrum 
