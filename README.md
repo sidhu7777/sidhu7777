@@ -6,11 +6,11 @@ Data Scientist with a passion for turning complex data into actionable insights.
 
 ## Skills
 
-* Programming Languages: Python, Java, SQL 
-* Databases: SQL, MongoDB, Neo4j 
-* Data Analysis & Visualization: Pandas, NumPy, Matplotlib, Seaborn, D3.js, Tableau
-* Machine Learning: Scikit-learn, TensorFlow
-* Agile Methodologies: Agile, Scrum 
+* Programming Languages: Python.
+* Databases: SQL, MongoDB, Neo4j. 
+* Data Analysis & Visualization: Pandas, NumPy, Matplotlib, Seaborn, D3.js, Tableau.
+* Machine Learning: Scikit-learn, TensorFlow.
+* Agile Methodologies: Agile, Scrum. 
 ## Projects
 
 * Comparative Analysis of MongoDB vs Neo4j for Biomedical Data: Analyzed and compared MongoDB and Neo4j performance on biomedical datasets, focusing on query speed, storage efficiency, and scalability. 
@@ -25,5 +25,5 @@ Data Scientist with a passion for turning complex data into actionable insights.
 ## Contact
 
 * bvineeth76@gmail.com 
-* https://www.linkedin.com/in/vineeth-raja-banala-014a9415b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+* https://www.linkedin.com/in/vineeth-raja-banala/
 
