@@ -1,22 +1,43 @@
 # Vineeth Raja 
 
+# Profile Summary
 
-
-Data Scientist with a passion for turning complex data into actionable insights. Experienced in Python, R, SQL, and machine learning, with a strong foundation in statistics and database management. Eager to contribute to impactful, data-driven projects in a collaborative environment. 
+Machine Learning and AI Engineer passionate about building intelligent systems with real-world impact. Experienced in developing end-to-end ML pipelines, Generative AI chatbots, agent-based retrieval workflows, and modern data analytics solutions. Skilled in combining LLMs, Retrieval-Augmented Generation (RAG), SQL-based data warehouses, and data visualization to create robust, scalable applications. Committed to continuous innovation and delivering value through data-driven technologies.
 
 ## Skills
 
-* Programming Languages: Python.
-* Databases: SQL, MongoDB, Neo4j. 
-* Data Analysis & Visualization: Pandas, NumPy, Matplotlib, Seaborn, D3.js, Tableau.
-* Machine Learning: Scikit-learn, TensorFlow.
-* Agile Methodologies: Agile, Scrum. 
+Programming: Python, SQL
+
+Machine Learning: Scikit-learn, XGBoost, Model Deployment (Flask)
+
+Generative AI: OpenAI APIs, LangChain, Agentic Workflows
+
+Vector Databases: Pinecone, FAISS
+
+Embeddings: Sentence Transformers, Hugging Face
+
+Data Engineering: ETL Pipelines, Data Modeling (SQL Server)
+
+Visualization: Tableau, Matplotlib, Seaborn
+
+APIs/Frameworks: Flask, FastAPI 
+
+Tools: Git, Jupyter Notebook, VS Code, cursor.
+
 ## Projects
 
-* Comparative Analysis of MongoDB vs Neo4j for Biomedical Data: Analyzed and compared MongoDB and Neo4j performance on biomedical datasets, focusing on query speed, storage efficiency, and scalability. 
-* COVID-19 Data Visualization Tool: Built an interactive visualization tool using D3.js to track global COVID-19 trends and regional patterns. 
-* Credit Card Fraud Detection Model: Developed a machine learning model using logistic regression and random forests to identify fraudulent credit card transactions. 
-* Flight Tracking System Simulation: Simulated a two-stage flight tracking system in Java using multi-threading and design patterns for real-time updates. 
+# 1. Medical ChatBot
+AI-powered chatbot for healthcare queries, integrating Pinecone vector search, OpenAI GPT models, and Flask backend for seamless retrieval from medical documents.
+
+# 2. AI Language Learning Chatbot
+Interactive GenAI chatbot built with LangChain and OpenAI APIs, designed to simulate immersive conversational learning environments for language learners.
+
+# 3. End-to-End ML Project
+Complete machine learning pipeline from data ingestion to model deployment using Flask, emphasizing best practices, modularity, and real-world scalability.
+
+# 4. Data Warehouse SQL Project
+Built a modern data warehouse on SQL Server, including ETL pipelines, dimensional modeling, and analytical querying to power business intelligence dashboards.
+
 
 ## Education
 
