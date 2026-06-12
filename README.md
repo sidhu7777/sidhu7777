@@ -2,7 +2,8 @@
 
 # Profile Summary
 
-Machine Learning and AI Engineer passionate about building intelligent systems with real-world impact. Experienced in developing end-to-end ML pipelines, Generative AI chatbots, agent-based retrieval workflows, and modern data analytics solutions. Skilled in combining LLMs, Retrieval-Augmented Generation (RAG), SQL-based data warehouses, and data visualization to create robust, scalable applications. Committed to continuous innovation and delivering value through data-driven technologies.
+AI & Machine Learning Engineer focused on building intelligent, production-ready applications. My work spans end-to-end machine learning systems, Generative AI solutions, conversational chatbots, document intelligence platforms, and automated PDF reporting systems. I enjoy transforming complex data into practical products by combining machine learning, large language models, retrieval-augmented generation (RAG), and modern data engineering practices to create scalable, real-world solutions.
+
 
 ## Skills
 
