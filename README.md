@@ -1,51 +1,18 @@
-# Vineeth Raja 
-
-# Profile Summary
-
+# 💫 About Me:
 AI & Machine Learning Engineer focused on building intelligent, production-ready applications. My work spans end-to-end machine learning systems, Generative AI solutions, conversational chatbots, document intelligence platforms, and automated PDF reporting systems. I enjoy transforming complex data into practical products by combining machine learning, large language models, retrieval-augmented generation (RAG), and modern data engineering practices to create scalable, real-world solutions.
 
 
-## Skills
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vineeth-raja-banala/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bvineeth76@gmail.com) 
 
-Programming: Python, SQL
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=sidhu7777&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=sidhu7777&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=sidhu7777&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-Machine Learning: Scikit-learn, XGBoost, Model Deployment (Flask)
+---
+[![](https://komarev.com/ghpvc/?username=sidhu7777&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Generative AI: OpenAI APIs, LangChain, Agentic Workflows
-
-Vector Databases: Pinecone, FAISS
-
-Embeddings: Sentence Transformers, Hugging Face
-
-Data Engineering: ETL Pipelines, Data Modeling (SQL Server)
-
-Visualization: Tableau, Matplotlib, Seaborn
-
-APIs/Frameworks: Flask, FastAPI 
-
-Tools: Git, Jupyter Notebook, VS Code, cursor.
-
-## Projects
-
-# 1. Medical ChatBot
-AI-powered chatbot for healthcare queries, integrating Pinecone vector search, OpenAI GPT models, and Flask backend for seamless retrieval from medical documents.
-
-# 2. AI Language Learning Chatbot
-Interactive GenAI chatbot built with LangChain and OpenAI APIs, designed to simulate immersive conversational learning environments for language learners.
-
-# 3. End-to-End ML Project
-Complete machine learning pipeline from data ingestion to model deployment using Flask, emphasizing best practices, modularity, and real-world scalability.
-
-# 4. Data Warehouse SQL Project
-Built a modern data warehouse on SQL Server, including ETL pipelines, dimensional modeling, and analytical querying to power business intelligence dashboards.
-
-
-## Education
-
-* MSc Data Science, Heriot-Watt University, United Kingdom (January 2022 - November 2024) 
-
-## Contact
-
-* bvineeth76@gmail.com 
-* https://www.linkedin.com/in/vineeth-raja-banala/
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
